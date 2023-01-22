@@ -133,6 +133,7 @@ hr {
 }
 
 .footer-link {
+    padding: 20px;
     font-size: 17px;
     color: #f7f5eb;
     font-family: 'Montserrat', serif;
